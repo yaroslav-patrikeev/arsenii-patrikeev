@@ -1,3 +1,1 @@
 # arsenii-patrikeev
-
-тест
